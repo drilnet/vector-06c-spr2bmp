@@ -1,6 +1,10 @@
 # hobby
 ### Вектор-06Ц. Конвертер графических файлов SPR в BMP.
 
+Лицензия на программу и скрипт: GNU GPL V3.
+
+![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/UA.png)
+
 **SPR** - графический формат файлов **Вектор'а-06Ц**.
 <br>
 **BMP** - графический формат файлов **Windows**.
@@ -62,6 +66,7 @@
 [Вот ещё (2).](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST4.bmp)
 
 Примечание автора.
+<br>
 Пришедшие изображения к нам из XX века...
 
     Файл: Karikatury.gif

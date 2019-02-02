@@ -18,30 +18,23 @@
 Смотрите каталоги [SRC C - FreeBSD, Linux](https://github.com/drilnet/vector-06c-spr2bmp/tree/master/SRC%20C%20-%20FreeBSD%2C%20Linux) и [SRC C - Windows](https://github.com/drilnet/vector-06c-spr2bmp/tree/master/SRC%20C%20-%20Windows)
 внутри есть readme.
 
-Файл: [Graphics Files Vector-06C (SPR).1.7z](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/Graphics%20Files%20Vector-06C%20(SPR).1.7z)
-<br>
-Архив **SPR файлов** (разные, внутри есть и **BMP файлы**).
+    Файл: Graphics Files Vector-06C (SPR).1.7z
+    Архив SPR файлов (разные, внутри есть и BMP файлы).
 
-Файл: [Graphics Files Vector-06C (SPR).2.7z](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/Graphics%20Files%20Vector-06C%20(SPR).2.7z)
-<br>
-Архив **SPR файлов** (разные, внутри есть и **BMP файлы**).
+    Файл: Graphics Files Vector-06C (SPR).2.7z
+    Архив SPR файлов (разные, внутри есть и BMP файлы).
 
-Файл: [Graphics Files Vector-06C (SPR).3.7z](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/Graphics%20Files%20Vector-06C%20(SPR).3.7z)
-<br>
-Архив **SPR файлов** (доисторические животные, внутри есть и **BMP файлы**).
+    Файл: Graphics Files Vector-06C (SPR).3.7z
+    Архив SPR файлов (доисторические животные, внутри есть и BMP файлы).
 
-Файл: [Graphics Files Vector-06C (SPR).4.7z](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/Graphics%20Files%20Vector-06C%20(SPR).4.7z)
-<br>
-Архив **SPR файлов** (карикатуры на Харьковских программистов,
-**ХХ век**, **90-е годы**, внутри есть **BMP файлы**).
-
-    Файл: Karikatury.gif
-    Эту гифку сделал из SPR взятых с Вектор'а-06Ц.
-    Какрикатуры на Харьковских программистов.
+    Файл: Graphics Files Vector-06C (SPR).4.7z
+    Архив SPR файлов (карикатуры на Харьковских программистов,
+    ХХ век, 90-е годы, внутри есть BMP файлы).
 
     Файл: Info SPR.7z
     Инфо по SPR (как устроен SPR), плюс программа распаковщика на
     ассемблере для Вектор'а-06Ц.
+
 
     spr2bmp     - Исполняемый файл для FreeBSD (файл SPR в BMP).
     spr2bmp.exe - Исполняемый файл для Windows (файл SPR в BMP).
@@ -53,5 +46,11 @@
 
     Readme.RUS.1251.txt - Это описание в кодировке cp1251 (Windows).
     Readme.RUS.UTF8.txt - Это описание в кодировке UTF-8 (FreeBSD, Linux).
+
+
+    Файл: Karikatury.gif
+    Эту гифку сделал из SPR взятых с Вектор'а-06Ц.
+    Какрикатуры на Харьковских программистов.
+
 
     Украина. Демидов С.В.

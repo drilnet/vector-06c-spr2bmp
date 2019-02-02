@@ -1,7 +1,7 @@
 # hobby
 ### Вектор-06Ц. Конвертер графических файлов SPR в BMP.
 
-Лицензия на программу и скрипт: GNU GPL V3.
+Лицензия на программу и скрипт: **GNU GPL V3**.
 
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/UA.png)
 

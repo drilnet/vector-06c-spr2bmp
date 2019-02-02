@@ -43,7 +43,7 @@
 
     spr2bmp     - Исполняемый файл для FreeBSD (файл SPR в BMP).
     spr2bmp.exe - Исполняемый файл для Windows (файл SPR в BMP).
-    spr2bmp.pl  - Скрипт на Perl (файл SPR в BMP)
+    spr2bmp.pl  - Скрипт на Perl (файл SPR в BMP). Этот скрипт ещё умеет "выдирать" изображения из исходников.
 
 **Скриншоты работы программы spr2bmp**:
 
@@ -60,6 +60,9 @@
 [Вот ещё (1).](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST3.bmp)
 <br>
 [Вот ещё (2).](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST4.bmp)
+
+Примечание автора.
+Пришедшие изображения к нам из XX века...
 
     Файл: Karikatury.gif
     Эту гифку сделал из SPR взятых с Вектор'а-06Ц.

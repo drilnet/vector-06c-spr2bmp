@@ -7,8 +7,8 @@
 
 Что содержит репозиторий.
     
-    Каталог: SRC C - FreeBSD, Linux - Исходники на **Си**.
-    Каталог: SRC C - Windows]       - Исходники на **Си**.
+    Каталог: SRC C - FreeBSD, Linux - Исходники на Си.
+    Каталог: SRC C - Windows        - Исходники на Си.
 
 Отличие каталогов - кодировка **UTF8** и **CP866**!
 
@@ -48,9 +48,13 @@
 **Скриншоты работы программы spr2bmp**:
 
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/spr2bmp_Screenshot_1.png)
+
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/spr2bmp_Screenshot_2.png)
 
+**Результаты работы программы spr2bmp**:
+![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST2.SPR)
 
+![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST3.SPR)
 
 
     Файл: Karikatury.gif
@@ -58,4 +62,4 @@
     Какрикатуры на Харьковских программистов.
 
 
-    Украина. Демидов С.В.
+Украина. Демидов С.В.

@@ -9,26 +9,31 @@
     
 Каталог: [SRC C - FreeBSD, Linux](https://github.com/drilnet/vector-06c-spr2bmp/tree/master/SRC%20C%20-%20FreeBSD%2C%20Linux) - Исходники на **Си**.
 <br>
-Каталог: '**SRC C - Windows**'        - Исходники на **Си**.
+Каталог: [SRC C - Windows](https://github.com/drilnet/vector-06c-spr2bmp/tree/master/SRC%20C%20-%20Windows)        - Исходники на **Си**.
 
 Отличие каталогов - кодировка **UTF8** и **CP866**!
 
 Сложно ли их скомпилировать исходники? Компиляция в двух действиях!
-Смотрите каталоги SRC C - FreeBSD и Linux и SRC C - Windows
+<br>
+Смотрите каталоги [SRC C - FreeBSD, Linux](https://github.com/drilnet/vector-06c-spr2bmp/tree/master/SRC%20C%20-%20FreeBSD%2C%20Linux) и [SRC C - Windows](https://github.com/drilnet/vector-06c-spr2bmp/tree/master/SRC%20C%20-%20Windows)
 внутри есть readme.
 
-    Файл: Graphics Files Vector-06C (SPR).1.7z
-    Архив SPR файлов (разные, внутри есть и BMP файлы).
+Файл: [Graphics Files Vector-06C (SPR).1.7z](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/Graphics%20Files%20Vector-06C%20(SPR).1.7z)
+<br>
+Архив **SPR файлов** (разные, внутри есть и **BMP файлы**).
 
-    Файл: Graphics Files Vector-06C (SPR).2.7z
-    Архив SPR файлов (разные, внутри есть и BMP файлы).
+Файл: [Graphics Files Vector-06C (SPR).2.7z](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/Graphics%20Files%20Vector-06C%20(SPR).2.7z)
+<br>
+Архив **SPR файлов** (разные, внутри есть и **BMP файлы**).
 
-    Файл: Graphics Files Vector-06C (SPR).3.7z
-    Архив SPR файлов (доисторические животные, внутри есть и BMP файлы).
+Файл: [Graphics Files Vector-06C (SPR).3.7z](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/Graphics%20Files%20Vector-06C%20(SPR).3.7z)
+<br>
+Архив **SPR файлов** (доисторические животные, внутри есть и **BMP файлы**).
 
-    Файл: Graphics Files Vector-06C (SPR).4.7z
-    Архив SPR файлов (карикатуры на Харьковских программистов,
-    ХХ век, 90-е годы, внутри есть BMP файлы).
+Файл: [Graphics Files Vector-06C (SPR).4.7z](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/Graphics%20Files%20Vector-06C%20(SPR).4.7z)
+<br>
+Архив **SPR файлов** (карикатуры на Харьковских программистов,
+**ХХ век**, **90-е годы**, внутри есть **BMP файлы**).
 
     Файл: Karikatury.gif
     Эту гифку сделал из SPR взятых с Вектор'а-06Ц.

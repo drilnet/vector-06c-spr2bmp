@@ -55,7 +55,7 @@
 
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/spr2bmp_Screenshot_2.png)
 
-**Результаты работы программы spr2bmp**:
+**Результат работы программы spr2bmp**:
 
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST2.bmp)
 

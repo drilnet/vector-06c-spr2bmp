@@ -16,7 +16,10 @@
 Сложно ли их скомпилировать исходники? Компиляция в двух действиях!
 <br>
 Смотрите каталоги [SRC C - FreeBSD, Linux](https://github.com/drilnet/vector-06c-spr2bmp/tree/master/SRC%20C%20-%20FreeBSD%2C%20Linux) и [SRC C - Windows](https://github.com/drilnet/vector-06c-spr2bmp/tree/master/SRC%20C%20-%20Windows)
+<br>
 внутри есть readme.
+
+**SPR файлы**:
 
     Файл: Graphics Files Vector-06C (SPR).1.7z
     Архив SPR файлов (разные, внутри есть и BMP файлы).
@@ -35,17 +38,18 @@
     Инфо по SPR (как устроен SPR), плюс программа распаковщика на
     ассемблере для Вектор'а-06Ц.
 
+**Испоняемые файлы**:
 
     spr2bmp     - Исполняемый файл для FreeBSD (файл SPR в BMP).
     spr2bmp.exe - Исполняемый файл для Windows (файл SPR в BMP).
     spr2bmp.pl  - Скрипт на Perl (файл SPR в BMP)
 
-    spr2bmp_Screenshot_1.png
-    spr2bmp_Screenshot_2.png
-    Скриншоты работы программы.
+**Скриншоты работы программы spr2bmp**:
 
-    Readme.RUS.1251.txt - Это описание в кодировке cp1251 (Windows).
-    Readme.RUS.UTF8.txt - Это описание в кодировке UTF-8 (FreeBSD, Linux).
+![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/spr2bmp_Screenshot_1.png)
+![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/spr2bmp_Screenshot_2.png)
+
+
 
 
     Файл: Karikatury.gif

@@ -36,7 +36,7 @@
     Архив SPR файлов (карикатуры на Харьковских программистов,
     ХХ век, 90-е годы, внутри есть BMP файлы).
 
-**Инфо по SPR**:
+**Инфо по SPR** (эта информация есть в [Wiki](https://github.com/drilnet/vector-06c-spr2bmp/wiki)):
 
     Файл: Info SPR.7z
     Инфо по SPR (как устроен SPR), плюс программа распаковщика на
@@ -70,5 +70,32 @@
 Совместное творчество **Третьяков А.Л.** и **Терентьев С.В.**
 
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/Karikatury.gif)
-    
+
+Дополнительная информация (как устроен **SPR** файл): [Wiki](https://github.com/drilnet/vector-06c-spr2bmp/wiki)
+
 Украина. (C) Демидов С.В.
+
+<hr>
+
+* Вектор-06Ц в ПЛИС: [https://github.com/svofski/vector06cc](https://github.com/svofski/vector06cc)
+* Картотека ПО для Вектор-06Ц: [http://sensi.org/scalar](http://sensi.org/scalar)
+* Блог московского "макрушника" здесь: [http://macrobloger.com/vector-06c](http://macrobloger.com/vector-06c)
+* CP/M для Windows: [http://www.sydneysmith.com/wordpress/cpm-programs/](http://www.sydneysmith.com/wordpress/cpm-programs/)
+
+<hr>
+
+**Ещё репозитории автора:**
+
+**Репозиторий:** [Blender 3D. Модель игральной кости (dice).](https://github.com/drilnet/blender3d-dice2)
+<br>
+**Репозиторий:** [Blender 3D. Модель мотора (motor).](https://github.com/drilnet/blender3d-motor)
+<br>
+**Репозиторий:** [Скрипт который подписывает цифровые фотографии.](https://github.com/drilnet/programming-perl-signature-images)
+<br>
+**Репозиторий:** [Вектор-06Ц. Ожившее кино.](https://github.com/drilnet/vector-06c-kino)
+
+<hr>
+
+**Полезные ссылки:**
+
+[Правила оформления файла README.MD на GITHUB](https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md#SpecialSymbol)

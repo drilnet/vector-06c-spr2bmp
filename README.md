@@ -63,6 +63,11 @@
 * [Вот ещё (1).](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST3.bmp)
 * [Вот ещё (2).](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST4.bmp)
 
+Примечание.
+<br>
+Как попадали такие изображения как **Sorayama Hayme** (и др.) в **Вектор-06Ц**?
+Была написана утилита (**VPCX.COM**, автор **Терентьев С.В.**) для просмотра **PCX** файлов и конвертация их в формат **SPR**.
+
 Ниже привожу ещё гифку, которую сделал из **SPR** взятых с **Вектор'а-06Ц**.
 <br>
 Какрикатуры на Харьковских программистов (**XX век**, **90-е года**).

@@ -1,4 +1,4 @@
-Написано на Си в FreeBSD!
+Написано на Си в [FreeBSD](https://www.freebsd.org/ru/)!
 
 **Исходники**:
 

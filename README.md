@@ -19,8 +19,7 @@
 Сложно ли их скомпилировать исходники? Компиляция в двух действиях!
 <br>
 Смотрите каталоги [SRC C - FreeBSD, Linux](https://github.com/drilnet/vector-06c-spr2bmp/tree/master/SRC%20C%20-%20FreeBSD%2C%20Linux) и [SRC C - Windows](https://github.com/drilnet/vector-06c-spr2bmp/tree/master/SRC%20C%20-%20Windows)
-<br>
-внутри есть readme.
+(внутри есть **readme**).
 
 **SPR файлы**:
 
@@ -64,10 +63,6 @@
 [Вот ещё (1).](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST3.bmp)
 <br>
 [Вот ещё (2).](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST4.bmp)
-
-Примечание автора.
-<br>
-Изображения пришедшие к нам из **XX века**.
 
 Ниже привожу ещё гифку, которую сделал из **SPR** взятых с **Вектор'а-06Ц**.
 <br>

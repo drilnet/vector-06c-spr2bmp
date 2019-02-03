@@ -77,6 +77,8 @@
 
 <hr>
 
+**Дополнительные ссылки:**
+
 * Вектор-06Ц в ПЛИС: [https://github.com/svofski/vector06cc](https://github.com/svofski/vector06cc)
 * Картотека ПО для Вектор-06Ц: [http://sensi.org/scalar](http://sensi.org/scalar)
 * Блог московского "макрушника" здесь: [http://macrobloger.com/vector-06c](http://macrobloger.com/vector-06c)
@@ -99,3 +101,5 @@
 **Полезные ссылки:**
 
 [Правила оформления файла README.MD на GITHUB](https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md#SpecialSymbol)
+<br>
+[Создаем свой сайт на Github](https://www.youtube.com/watch?v=05nLdIVfSRU)

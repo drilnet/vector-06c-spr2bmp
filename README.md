@@ -5,7 +5,7 @@
 
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/UA.png)
 
-**SPR** - графический формат файлов **Вектор'а-06Ц**.
+**SPR** - графический формат файлов [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
 <br>
 **BMP** - графический формат файлов **Windows**.
 
@@ -69,13 +69,13 @@
 
 Примечание.
 <br>
-Как попадали такие изображения как **Sorayama Hayme** (и др.) в **Вектор-06Ц**?
+Как попадали такие изображения как **Sorayama Hayme** (и др.) в [Вектор-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц))?
 <br>
 Была написана утилита (**VPCX.COM**, автор **Терентьев С.В.**) для просмотра **PCX** файлов и конвертация их в формат **SPR**.
 
 <hr>
 
-Различные сообщества (**ZX Spectrum**, **Вектор-06Ц**, **Специалист** и др.) живут [здесь](https://zx-pk.ru).
+Различные сообщества ([ZX Spectrum](https://ru.wikipedia.org/wiki/ZX_Spectrum) ([UKR](https://uk.wikipedia.org/wiki/ZX_Spectrum)), [Вектор-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)), [Специалист](https://ru.wikipedia.org/wiki/Специалист_(компьютер)) и др.) живут [здесь](https://zx-pk.ru).
 
 <hr>
 

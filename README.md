@@ -102,6 +102,14 @@
 * Утилита для работы с образами CP/M дисков: [http://era-cg.su/steinblume/index.php?name=about&lang=ru](http://era-cg.su/steinblume/index.php?name=about&lang=ru)
 * Информация по BDOS OC CP/M: [http://marinovsoft.narod.ru/korvet/bdos_doc.pdf](http://marinovsoft.narod.ru/korvet/bdos_doc.pdf)
 
+<hr?
+
+**Файловый архив Вектор'а-06Ц:**
+
+* Системный диск Вектор'а-06Ц с МикроДОС Т-34 (Харьковский вариант).
+
+    [Перейти в архив](https://drilnet.github.io/downloads/vector-06c/)
+
 <hr>
 
 **Ещё репозитории автора:**

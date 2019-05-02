@@ -138,3 +138,7 @@
 [Правила оформления файла README.MD на GITHUB](https://github.com/OlgaVlasova/markdown-doc/blob/master/README.md#SpecialSymbol)
 <br>
 [Создаем свой сайт на Github](https://www.youtube.com/watch?v=05nLdIVfSRU)
+
+<hr>
+
+Ох уж этот русский язык!

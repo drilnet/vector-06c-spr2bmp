@@ -25,7 +25,7 @@
     obj.sh      - Чтобы не делать объектные файлы руками.
     linking.sh  - Чтобы не делать линковку руками.
 
-**Как скомпилировать исполняемый файл в FreeBSD или Linux!**
+**Как скомпилировать исполняемый файл в FreeBSD или в Linux!**
  
        Действие 1. Создаём объектные файлы.
        $ gcc -c spr2bmp.c LoadSPR.c UnpackingSPR.c CodeConversion.c GetRGB.c SaveBMP.c
@@ -35,7 +35,7 @@
 
        На выходе исполняемый файл spr2bmp
 
-**Как скомпилировать исполняемый файл в FreeBSD или Linux для Windows!**
+**Как скомпилировать исполняемый файл в FreeBSD или в Linux для Windows!**
 
        Действие 1. Создаём объектные файлы.
        $ mingw32-gcc -c spr2bmp.c LoadSPR.c UnpackingSPR.c CodeConversion.c GetRGB.c SaveBMP.c

@@ -7,9 +7,9 @@
     spr2bmp.c        - Гланый файл.
     CodeConversion.c - Перекодировка цвета.
     GetRGB.c         - Цвета Вектор-06Ц через цвета PC компьютера.
-    LoadSPR.c        - Загрузить SPR файл в память.
-    SaveBMP.c        - Сохранить BMP файл на диск.
-    UnpackingSPR.c   - Распаковать SPR файл.
+    LoadSPR.c        - Загрузить SPR-файл в память.
+    SaveBMP.c        - Сохранить BMP-файл на диск.
+    UnpackingSPR.c   - Распаковать SPR-файл.
 
 **Объектные файлы**:
 

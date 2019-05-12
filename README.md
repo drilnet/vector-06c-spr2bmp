@@ -65,7 +65,7 @@
 
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST2.bmp)
 
-Приведенное изображение выше: **Sorayama Hayme**.
+Приведённое изображение выше: **Sorayama Hayme**.
 
 * [Вот ещё (1).](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST3.bmp)
 * [Вот ещё (2).](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST4.bmp)

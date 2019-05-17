@@ -25,7 +25,7 @@
 Смотрите каталоги [SRC C - FreeBSD, Linux](https://github.com/drilnet/vector-06c-spr2bmp/tree/master/SRC%20C%20-%20FreeBSD%2C%20Linux) и [SRC C - Windows](https://github.com/drilnet/vector-06c-spr2bmp/tree/master/SRC%20C%20-%20Windows)
 (внутри есть **описание**).
 
-**SPR-файлы**:
+**SPR-файлы:**
 
     Файл: Graphics Files Vector-06C (SPR).1.7z
     Архив SPR-файлов (разные, внутри есть и BMP-файлы).
@@ -44,24 +44,24 @@
     Внутри этих архивов также есть программы для просмотра SPR-файлов на Вектор'е-06Ц:
     программа VSPR.COM и программа DEMO-SPR.COM (для этих программ необходима МикроДОС Т-34).
 
-**Инфо по SPR** (эта информация есть в [Wiki](https://github.com/drilnet/vector-06c-spr2bmp/wiki)):
+**Инфо по SPR** (эта информация есть в [Wiki](https://github.com/drilnet/vector-06c-spr2bmp/wiki))**:**
 
     Файл: Info SPR.7z
     Как устроен SPR-файл, плюс программа распаковщик (на ассемблере, для Вектор'а-06Ц).
 
-**Исполняемые файлы**:
+**Исполняемые файлы:**
 
     spr2bmp     - Исполняемый файл для FreeBSD (SPR-файл в BMP-файл).
     spr2bmp.exe - Исполняемый файл для Windows (SPR-файл в BMP-файл).
     spr2bmp.pl  - Скрипт на Perl (SPR-файл в BMP-файл). Этот скрипт ещё умеет "выдирать" изображения из исходников.
 
-**Скриншоты работы программы spr2bmp**:
+**Скриншоты работы программы spr2bmp:**
 
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/spr2bmp_Screenshot_1.png)
 
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/spr2bmp_Screenshot_2.png)
 
-**Результат работы программы spr2bmp**:
+**Результат работы программы spr2bmp:**
 
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST2.bmp)
 
@@ -70,7 +70,7 @@
 * [Вот ещё (1).](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST3.bmp)
 * [Вот ещё (2).](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST4.bmp)
 
-**Примечание**.
+**Примечание.**
 <br>
 Как попадали такие изображения как **Sorayama Hajime** (и др.) в [Вектор-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц))?
 <br>

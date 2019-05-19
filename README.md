@@ -82,11 +82,9 @@
 
 <hr>
 
-Ниже привожу ещё гифку, которую сделал из **SPR**-файлов
+Ниже привожу ещё гифку, которую сделал из **SPR**-файлов (к [VPCX.COM](https://drilnet.github.io/downloads/vector-06c/system-disk-1-fls/VPCX.COM)
 <br>
-(к [VPCX.COM](https://drilnet.github.io/downloads/vector-06c/system-disk-1-fls/VPCX.COM) эти SPR-файлы не имеют никакого отношения)
-<br>
-взятых с [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
+эти SPR-файлы не имеют никакого отношения) взятых с [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
 <br>
 Карикатуры на Харьковских программистов (**XX век**, **90-е года**).
 <br>

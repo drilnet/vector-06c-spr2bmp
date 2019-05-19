@@ -82,7 +82,7 @@
 
 <hr>
 
-**Бонус.**
+**Бонус!**
 
 Ниже привожу ещё гифку, которую сделал из **SPR**-файлов (к [VPCX.COM](https://drilnet.github.io/downloads/vector-06c/system-disk-1-fls/VPCX.COM)
 <br>

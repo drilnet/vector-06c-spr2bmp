@@ -82,6 +82,8 @@
 
 <hr>
 
+**Бонус.**
+
 Ниже привожу ещё гифку, которую сделал из **SPR**-файлов (к [VPCX.COM](https://drilnet.github.io/downloads/vector-06c/system-disk-1-fls/VPCX.COM)
 <br>
 эти SPR-файлы не имеют никакого отношения) взятых с [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).

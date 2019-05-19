@@ -88,9 +88,11 @@
 <br>
 Совместное творчество: **Третьяков А.Л.**, **Терентьев С.В.**
 
+**Гифка:**
+<br>
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/Karikatury.gif)
 
-Гифка была сделана из **SPR**-файлов взятых с [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
+**Гифка** была сделана из **SPR**-файлов взятых с [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
 <br>
 Как были сделаны эти **SPR**-файлы?
 <br>

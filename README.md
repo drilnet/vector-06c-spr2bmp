@@ -94,7 +94,7 @@
 <br>
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/Karikatury.gif)
 
-Данная **Гифка** была сделана из **SPR**-файлов взятых с [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
+Данная **гифка** была сделана из **SPR**-файлов взятых с [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
 <br>
 Как были сделаны эти **SPR**-файлы на [Вектор'е-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц))?
 <br>

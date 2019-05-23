@@ -115,6 +115,10 @@
 ![](https://drilnet.github.io/downloads/vector-06c/images/x1_b.png)
 ![](https://drilnet.github.io/downloads/vector-06c/images/x1_c.png)
 
+* Выпуск 1. ВЕКТОР-06Ц ИЗНУТРИ. Руководство для начинающих специалистов.
+* Выпуск 2. Системные программы МикроДОС ПК Вектор-06Ц.
+* Выпуск 3. Язык программирования ЛС-ПАСКАЛЬ.
+
     [Перейти в архив Вектор'а-06Ц](https://drilnet.github.io/downloads/vector-06c/)
 
 <hr>

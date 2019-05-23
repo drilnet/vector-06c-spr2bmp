@@ -111,6 +111,10 @@
 
 * Системный диск Вектор'а-06Ц с МикроДОС Т-34 (Харьковский вариант).
 
+![](https://drilnet.github.io/downloads/vector-06c/images/x1_a.png)
+![](https://drilnet.github.io/downloads/vector-06c/images/x1_b.png)
+![](https://drilnet.github.io/downloads/vector-06c/images/x1_c.png)
+
     [Перейти в архив Вектор'а-06Ц](https://drilnet.github.io/downloads/vector-06c/)
 
 <hr>

@@ -78,8 +78,6 @@
 
 Дополнительная информация (как устроен **SPR**-файл): [Wiki](https://github.com/drilnet/vector-06c-spr2bmp/wiki)
 
-Украина. (C) Демидов С.В.
-
 <hr>
 
 Различные сообщества ([ZX Spectrum](https://ru.wikipedia.org/wiki/ZX_Spectrum) ([UKR](https://uk.wikipedia.org/wiki/ZX_Spectrum)), [Вектор-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)), [Специалист](https://ru.wikipedia.org/wiki/Специалист_(компьютер)) и др.) живут [здесь](https://zx-pk.ru).

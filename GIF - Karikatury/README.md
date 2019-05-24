@@ -8,7 +8,7 @@ Karikatury.7z  - Карикатуры в формате PNG и XCF (7 PNG-фай
 
 ```
 Karikatury.gif - Анимированная гифка.
-Karikatury.xcf - Файл графического редактора Gimp.
+Karikatury.xcf - Файл графического редактора Gimp (XCF в GIF).
 ```
 
 Украина. (**C**) Демидов С.В.

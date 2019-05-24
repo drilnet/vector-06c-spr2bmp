@@ -97,7 +97,7 @@
 
 **Гифка:**
 <br>
-![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/GIF%20-%20Karikatury/Karikatury.gif)
+![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/GIF%20-%20Bonus/Karikatury.gif)
 
 Данная **гифка** была сделана из **SPR**-файлов взятых с [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
 <br>

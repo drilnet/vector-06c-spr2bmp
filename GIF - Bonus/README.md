@@ -11,4 +11,4 @@ Karikatury.gif - Анимированная гифка.
 Karikatury.xcf - Файл графического редактора Gimp (XCF в GIF).
 ```
 
-Украина. (**C**) Демидов С.В.
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.

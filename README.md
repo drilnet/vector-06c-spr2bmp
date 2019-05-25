@@ -113,7 +113,7 @@
 <br>
 Упоминание об оцифровщике было [здесь](https://github.com/drilnet/vector-06c-kino).
 
-Дополнительная информация (как устроен **SPR**-файл): [Wiki](https://github.com/drilnet/vector-06c-spr2bmp/wiki)
+Дополнительная информация (как устроен **SPR**-файл): [Wiki](https://github.com/drilnet/vector-06c-spr2bmp/wiki).
 
 Украина. (**C**) Демидов С.В.
 

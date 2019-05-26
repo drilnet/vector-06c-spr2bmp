@@ -119,10 +119,6 @@
 
 <hr>
 
-**Вектор-06Ц** - это наша маленькая история.
-
-<hr>
-
 **Дополнительные ссылки:**
 
 * Вектор-06Ц в ПЛИС: [https://github.com/svofski/vector06cc](https://github.com/svofski/vector06cc)

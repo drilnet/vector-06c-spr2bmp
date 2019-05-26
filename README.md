@@ -100,7 +100,7 @@
 Карикатуры на Харьковское сообщество программистов (**XX век**, **90-е годы**).
 
 **GIF-анимация:**
-<br>
+
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/GIF%20-%20Bonus/Karikatury.gif)
 
 Данная **GIF**-анимация была сделана из **SPR**-файлов взятых с [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
@@ -116,6 +116,10 @@
 Дополнительная информация (как устроен **SPR**-файл): [Wiki](https://github.com/drilnet/vector-06c-spr2bmp/wiki).
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
+
+<hr>
+
+**Вектор-06Ц** - это наша маленькая история.
 
 <hr>
 

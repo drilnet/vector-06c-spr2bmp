@@ -40,16 +40,16 @@
 
 **SPR-файлы:**
 
-    Файл: "Graphics Files Vector-06C (SPR).1.7z"
+    Файл: "Graphics Files Vector-06C (SPR).1.7z".
     Архив SPR-файлов (разные, внутри есть и BMP-файлы).
 
-    Файл: "Graphics Files Vector-06C (SPR).2.7z"
+    Файл: "Graphics Files Vector-06C (SPR).2.7z".
     Архив SPR-файлов (разные, внутри есть и BMP-файлы).
 
-    Файл: "Graphics Files Vector-06C (SPR).3.7z"
+    Файл: "Graphics Files Vector-06C (SPR).3.7z".
     Архив SPR-файлов (доисторические животные, внутри есть и BMP-файлы).
 
-    Файл: "Graphics Files Vector-06C (SPR).4.7z"
+    Файл: "Graphics Files Vector-06C (SPR).4.7z".
     Архив SPR-файлов (карикатуры на Харьковское сообщество программистов,
     ХХ век, 90-е годы, внутри есть и BMP-файлы).
 
@@ -59,7 +59,7 @@
 
 **Инфо по SPR** (эта информация есть в [Wiki](https://github.com/drilnet/vector-06c-spr2bmp/wiki))**:**
 
-    Файл: "Info SPR.7z"
+    Файл: "Info SPR.7z".
     Как устроен SPR-файл, плюс программа распаковщик (на ассемблере, для Вектор'а-06Ц).
 
 **Исполняемые файлы:**

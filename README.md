@@ -111,7 +111,7 @@
 <br>
 **SPR**-файлы (совместное творчество): **Третьяков А.Л.**, **Терентьев С.В.**
 <br>
-Упоминание о "видео-оцифровщике" было [здесь](https://github.com/drilnet/vector-06c-kino), ещё упоминание о "видео-оцифровщике" было на [TIMSoft](http://www.vector06c.fdd5-25.net/photo.html).
+Упоминание о "видео-оцифровщике" было [здесь](https://github.com/drilnet/vector-06c-kino), ещё упоминание о "видео-оцифровщике" было на [TIMSoft](http://www.vector06c.fdd5-25.net/photo.html) (фотоальбом).
 
 Дополнительная информация (как устроен **SPR**-файл): [Wiki](https://github.com/drilnet/vector-06c-spr2bmp/wiki).
 

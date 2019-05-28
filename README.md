@@ -18,7 +18,7 @@
 **Каталог бонус:**
 
 ```
-Каталог: "GIF - Bonus" - Gif-анимация.
+Каталог: 'GIF - Bonus' - Gif-анимация.
 -------|---
        | Карикатуры на Харьковское сообщество программистов (ХХ век, 90-е годы).
        |---
@@ -28,8 +28,8 @@
 
 **SRC-каталоги:**
 
-    Каталог: "SRC C - FreeBSD, Linux" - Исходники на Си.
-    Каталог: "SRC C - Windows"        - Исходники на Си.
+    Каталог: 'SRC C - FreeBSD, Linux' - Исходники на Си.
+    Каталог: 'SRC C - Windows'        - Исходники на Си.
 
 Отличие **SRC**-каталогов - кодировка **UTF8** и **CP866**!
 
@@ -40,41 +40,41 @@
 
 **SPR-файлы:**
 
-    Файл: "Graphics Files Vector-06C (SPR).1.7z".
+    Файл: 'Graphics Files Vector-06C (SPR).1.7z'.
     Архив SPR-файлов (разные, внутри есть и BMP-файлы).
 
-    Файл: "Graphics Files Vector-06C (SPR).2.7z".
+    Файл: 'Graphics Files Vector-06C (SPR).2.7z'.
     Архив SPR-файлов (разные, внутри есть и BMP-файлы).
 
-    Файл: "Graphics Files Vector-06C (SPR).3.7z".
+    Файл: 'Graphics Files Vector-06C (SPR).3.7z'".
     Архив SPR-файлов (доисторические животные, внутри есть и BMP-файлы).
 
-    Файл: "Graphics Files Vector-06C (SPR).4.7z".
+    Файл: 'Graphics Files Vector-06C (SPR).4.7z'.
     Архив SPR-файлов (карикатуры на Харьковское сообщество программистов,
     ХХ век, 90-е годы, внутри есть и BMP-файлы).
 
     Примечание.
     Внутри SPR-архивов также есть программы для просмотра SPR-файлов на Вектор'е-06Ц:
-    программа "VSPR.COM" и программа "DEMO-SPR.COM" (для этих программ необходима МикроДОС Т-34).
+    программа 'VSPR.COM' и программа 'DEMO-SPR.COM' (для этих программ необходима МикроДОС Т-34).
 
 **Инфо по SPR** (эта информация есть в [Wiki](https://github.com/drilnet/vector-06c-spr2bmp/wiki))**:**
 
-    Файл: "Info SPR.7z".
+    Файл: 'Info SPR.7z'.
     Как устроен SPR-файл, плюс программа распаковщик (на ассемблере, для Вектор'а-06Ц).
 
 **Исполняемые файлы:**
 
-    "spr2bmp"     - Исполняемый файл для FreeBSD (SPR-файл в BMP-файл).
-    "spr2bmp.exe" - Исполняемый файл для Windows (SPR-файл в BMP-файл).
-    "spr2bmp.pl"  - Скрипт на Perl (SPR-файл в BMP-файл). Этот скрипт ещё умеет "выдирать" изображения из исходников.
+    'spr2bmp'     - Исполняемый файл для FreeBSD (SPR-файл в BMP-файл).
+    'spr2bmp.exe' - Исполняемый файл для Windows (SPR-файл в BMP-файл).
+    'spr2bmp.pl'  - Скрипт на Perl (SPR-файл в BMP-файл). Этот скрипт ещё умеет "выдирать" изображения из исходников.
 
-**Скриншоты работы программы "spr2bmp":**
+**Скриншоты работы программы 'spr2bmp':**
 
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/spr2bmp_Screenshot_1.png)
 
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/spr2bmp_Screenshot_2.png)
 
-**Результат работы программы "spr2bmp":**
+**Результат работы программы 'spr2bmp':**
 
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/SRC%20C%20-%20FreeBSD%2C%20Linux/Test/TEST2.bmp)
 

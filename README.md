@@ -46,7 +46,7 @@
     Файл: 'Graphics Files Vector-06C (SPR).2.7z'.
     Архив SPR-файлов (разные, внутри есть и BMP-файлы).
 
-    Файл: 'Graphics Files Vector-06C (SPR).3.7z'".
+    Файл: 'Graphics Files Vector-06C (SPR).3.7z'.
     Архив SPR-файлов (доисторические животные, внутри есть и BMP-файлы).
 
     Файл: 'Graphics Files Vector-06C (SPR).4.7z'.

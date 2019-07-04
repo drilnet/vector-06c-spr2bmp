@@ -75,9 +75,7 @@
 ```
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/spr2bmp_Screenshot_1.png)
 
-```
-Файл 'spr2bmp_Screenshot_1.png'
-```
+```Файл 'spr2bmp_Screenshot_2.png'```
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/spr2bmp_Screenshot_2.png)
 
 **Результат работы программы 'spr2bmp':**

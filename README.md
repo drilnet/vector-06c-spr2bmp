@@ -38,7 +38,7 @@
 Смотрите каталоги '[SRC C - FreeBSD, Linux](https://github.com/drilnet/vector-06c-spr2bmp/tree/master/SRC%20C%20-%20FreeBSD%2C%20Linux)' и '[SRC C - Windows](https://github.com/drilnet/vector-06c-spr2bmp/tree/master/SRC%20C%20-%20Windows)'
 (внутри есть **описание**).
 
-**Графические файлы (spr-файлы):**
+**SPR-файлы:**
 
     Файл 'Graphics Files Vector-06C (SPR).1.7z'.
     Архив SPR-файлов (разные, внутри есть и BMP-файлы).

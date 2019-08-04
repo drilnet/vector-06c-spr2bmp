@@ -24,7 +24,7 @@
        |---
 ```
 
-[Посмотреть GIF-анимацию](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/GIF%20-%20Bonus/Karikatury.gif) (эта **GIF**-анимация есть в конце этой страницы). 
+[Посмотреть gif-анимацию](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/GIF%20-%20Bonus/Karikatury.gif) (эта **gif**-анимация есть в конце этой страницы). 
 
 **SRC-каталоги:**
 

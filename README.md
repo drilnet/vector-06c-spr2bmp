@@ -117,7 +117,7 @@
 <br>
 Упоминание о "видео-оцифровщике" было [здесь](https://github.com/drilnet/vector-06c-kino), ещё упоминание о "видео-оцифровщике" было на [TIMSoft](http://www.vector06c.fdd5-25.net/photo.html) (в фотоальбоме).
 
-Дополнительная информация (как устроен **SPR**-файл): [Wiki](https://github.com/drilnet/vector-06c-spr2bmp/wiki).
+Дополнительная информация (как устроен **SPR**-файл): [Wiki](https://github.com/drilnet/vector-06c-spr2bmp/wiki)
 
 [Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**C**) Демидов С.В.
 

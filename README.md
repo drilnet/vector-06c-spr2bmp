@@ -89,7 +89,7 @@
 
 **Примечание.**
 <br>
-Как попадали такие изображения как **Sorayama Hajime** (и др.) в [Вектор-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц))?
+Как попадали такие изображения как **Sorayama Hajime** (и др.) в [Вектор-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц "Вектор-06Ц в Русской Вики") ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц "Вектор-06Ц в Украинской Вики"))?
 <br>
 Была написана утилита ([VPCX.COM](https://drilnet.github.io/downloads/vector-06c/system-disk-1-fls/VPCX.COM), автор **Терентьев С.В.**) для просмотра [PCX](https://ru.wikipedia.org/wiki/PCX)-файлов ([UKR](https://uk.wikipedia.org/wiki/PCX)) и конвертации их в **SPR**-формат.
 

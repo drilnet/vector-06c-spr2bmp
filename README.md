@@ -107,9 +107,9 @@
 
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/GIF%20-%20Bonus/Karikatury.gif)
 
-Данная **GIF**-анимация была сделана из **SPR**-файлов взятых с [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
+Данная **GIF**-анимация была сделана из **SPR**-файлов взятых с [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц "Вектор-06Ц в Русской Вики") ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц "Вектор-06Ц в Украинской Вики")).
 <br>
-Как были сделаны эти **SPR**-файлы на [Вектор'е-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц))?
+Как были сделаны эти **SPR**-файлы на [Вектор'е-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц "Вектор-06Ц в Русской Вики") ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц "Вектор-06Ц в Украинской Вики"))?
 <br>
 Использовался "видео-оцифровщик", плюс "шаманство" в графическом редакторе.
 <br>

@@ -9,7 +9,7 @@
 
 ![](https://github.com/drilnet/vector-06c-spr2bmp/blob/master/UA.png)
 
-**SPR** - графический формат файлов [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц) ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц)).
+**SPR** - графический формат файлов [Вектор'а-06Ц](https://ru.wikipedia.org/wiki/Вектор-06Ц "Вектор-06Ц в Русской Вики") ([UKR](https://uk.wikipedia.org/wiki/Вектор-06Ц "Вектор-06Ц в Украинской Вики")).
 <br>
 **BMP** - графический формат файлов [Windows](https://ru.wikipedia.org/wiki/Windows) ([UKR](https://uk.wikipedia.org/wiki/Microsoft_Windows)).
 

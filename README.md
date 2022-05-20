@@ -115,7 +115,7 @@
 <br>
 **SPR**-файлы (совместное творчество): **Третьяков А.Л.**, **Терентьев С.В.**
 <br>
-Упоминание о "видео-оцифровщике" было [здесь](https://github.com/drilnet/vector-06c-kino), ещё упоминание о "видео-оцифровщике" было на [TIMSoft](http://vector06c.fdd5-25.net/photo.html) (в фотоальбоме).
+Упоминание о "видео-оцифровщике" было [здесь](https://github.com/drilnet/vector-06c-kino), ещё упоминание о "видео-оцифровщике" было на `TIMSoft` (в фотоальбоме).
 
 Дополнительная информация (как устроен **SPR**-файл): [Wiki](https://github.com/drilnet/vector-06c-spr2bmp/wiki)
 
@@ -128,7 +128,7 @@
 * Вектор-06Ц в ПЛИС: [https://github.com/svofski/vector06cc](https://github.com/svofski/vector06cc)
 * Картотека ПО для Вектор-06Ц: [http://sensi.org/scalar](http://sensi.org/scalar)
 * Блог московского "макрушника" здесь: [http://macrobloger.com/vector-06c](http://macrobloger.com/vector-06c)
-* TIMSoft (Вектор-06Ц): [http://vector06c.fdd5-25.net/index.html](http://vector06c.fdd5-25.net/index.html)
+* TIMSoft (Вектор-06Ц): `http://vector06c.fdd5-25.net/index.html` - Перестал существовать (жаль)!
 * CP/M для Windows: [http://www.sydneysmith.com/wordpress/cpm-programs/](http://www.sydneysmith.com/wordpress/cpm-programs/)
 * Утилита для работы с образами CP/M дисков: [http://era-cg.su/steinblume/index.php?name=about&lang=ru](http://era-cg.su/steinblume/index.php?name=about&lang=ru)
 * Информация по BDOS OC CP/M: [http://marinovsoft.narod.ru/korvet/bdos_doc.pdf](http://marinovsoft.narod.ru/korvet/bdos_doc.pdf)
